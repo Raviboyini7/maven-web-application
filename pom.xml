@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Ravi testing</name>
-	      <url>http://65.1.95.33:8081/repository/wallmart-release/</url>
+	      <url>http://13.233.5.110:8081/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Ravi testing</name>
-	      <url>http://65.1.95.33:8081/repository/wallmart-snapshot/</url>
+	      <url>http://13.233.5.110:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
