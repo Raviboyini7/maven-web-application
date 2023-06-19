@@ -97,7 +97,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Ravi testing</name>
+	      <name>Ravi testing2</name>
 	      <url>http://3.110.222.203:8081/repository/wallmart-release/</url>
 	    </repository>
 	    
